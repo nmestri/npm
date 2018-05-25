@@ -1,0 +1,17 @@
+{
+  "name": "@neha/npm",
+  "version": "1.0.1",
+  "main": "server.js",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2",    
+    "how-to-npm": "^2.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "nmestri <neha.mestri@globaleagle.com>",
+  "license": "ISC",
+  "description": "",
+  "repository": "https://github.com/nmestri/npm.git"
+}
